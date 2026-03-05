@@ -10,3 +10,4 @@ Backend: Next.js
 Databse: MongoDB(Firebase)
 Authentication: Clerk
 Hosting: Vercel
+Image Shrinker: 
